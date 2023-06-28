@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rolls-Royce Spectre
+* source:	https://sketchfab.com/3d-models/rolls-royce-spectre-3bcee524fb4d4f18a043b0b9d8dbdbe7
+* author:	Karlo_Fabiani (https://sketchfab.com/Karlo_Fabiani)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rolls-Royce Spectre" (https://sketchfab.com/3d-models/rolls-royce-spectre-3bcee524fb4d4f18a043b0b9d8dbdbe7) by Karlo_Fabiani (https://sketchfab.com/Karlo_Fabiani) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
